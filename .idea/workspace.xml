@@ -121,7 +121,21 @@
       <option name="project" value="LOCAL" />
       <updated>1688045021503</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="updated first announcement, and logos">
+      <created>1688080841817</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1688080841817</updated>
+    </task>
+    <task id="LOCAL-00013" summary="mobile website, list li">
+      <created>1688082668964</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1688082668964</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -144,6 +158,8 @@
     <MESSAGE value="Title fixed, registration link added" />
     <MESSAGE value="updated first announcement" />
     <MESSAGE value="updated first announcement, flyer" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated first announcement, flyer" />
+    <MESSAGE value="updated first announcement, and logos" />
+    <MESSAGE value="mobile website, list li" />
+    <option name="LAST_COMMIT_MESSAGE" value="mobile website, list li" />
   </component>
 </project>
