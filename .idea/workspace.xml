@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5facdb45-5b56-429b-83dd-a5ad6270d4b7" name="Changes" comment="Registration page added">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/program/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/program/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/registration/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/registration/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695725925681</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Registration page added">
+      <created>1700028376855</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1700028376855</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
